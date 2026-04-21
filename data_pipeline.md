@@ -1,4 +1,5 @@
 # Data Pipeline
+This file compares ETL, ELT, and EtLT approaches.
 ### Core Difference:
 1. ETL: Data is transformed before it is stored.
 2. ELT: Data is stored before it is transformed.
