@@ -36,6 +36,6 @@ Here is where most core business data lives. These are often RDBMS.
  
   Cloud based tools. Data is stored in their own silos.
 
-    *Marketing Platforms: Google Ads, Mailchimp
+    *Marketing Platforms: Google Ads, Mailchimp.
 
-    *Support Desks:Zendesk          
+    *Support Desks:Zendesk  .        
