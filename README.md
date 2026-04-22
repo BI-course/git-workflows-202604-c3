@@ -1,3 +1,13 @@
+Update project's README with team roles
+This file documents the roles of each member for 202604-c3 group.
+166317 - Issue #1 Add project README with team roles
+168961 - issue #2 Create a data_source.md file
+166465 - issue #3: Create a warehouse_schema.md
+169819 - issue #4 Create a data_pipeline.md
+169977 - issue #5: Add a governance.md file
+150237 - issue #6. Assigning Issues to Iterations
+This ensures that each team member understands their role clearly to ensure that the lab work is completed on time.
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6B-rL6oS)
 # Collaborative Git Workflows
 
