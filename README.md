@@ -30,6 +30,14 @@ Refer to the files in the order specified below for more details:
 Project lead: Member 4 — responsible for overall coordination.
 Project lead: Member 5 — responsible for governance and audit.
 
+Screenshots to show the log that a commit is there then reverse the commit
+The Dummy commit is "Misplaced commit in the wrong feature branch"
+BEFORE
+<img width="1600" height="872" alt="image" src="https://github.com/user-attachments/assets/7ff3a348-bd66-4b41-a6ca-0530b4f84f55" />
+AFTER
+<img width="1416" height="503" alt="image" src="https://github.com/user-attachments/assets/73d7802b-47c6-45c3-873f-ab98988d49c7" />
+
+
 
 
 
